@@ -1,1 +1,3 @@
 this is the most interesting course and I am earning a lot
+More changes to make to GIT
+Moving forward with the project

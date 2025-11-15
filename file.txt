@@ -1,3 +1,5 @@
 this is the most interesting course and I am earning a lot
 More changes to make to GIT
 Moving forward with the project
+Trying to figure out how to switch branch and creat things in anothr branc
+Not sure why is this branch has the same folder
